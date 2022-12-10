@@ -1,5 +1,5 @@
-# -⛳
-𝐀𝐢𝐦- 𝐒𝐭𝐚𝐤𝐞𝐡𝐨𝐥𝐝𝐞𝐫 𝐢𝐬 𝐚 𝐁𝐚𝐧𝐤, 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 𝐫𝐞𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐬𝐞𝐥𝐥𝐢𝐧𝐠 𝐬𝐜𝐡𝐞𝐦𝐞𝐬 𝐭𝐨 𝐢𝐭𝐬 𝐞𝐱𝐢𝐬𝐭𝐢𝐧𝐠 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐛𝐚𝐬𝐞.
+# ⛳
+𝐀𝐢𝐦- 𝐒𝐭𝐚𝐤𝐞𝐡𝐨𝐥𝐝𝐞𝐫 𝐢𝐬 𝐚 𝐁𝐚𝐧𝐤, 𝐰𝐚𝐧𝐭 𝐭𝐨 𝐢𝐧𝐜𝐫𝐞𝐚𝐬𝐞 𝐫𝐞𝐯𝐞𝐧𝐮𝐞 𝐛𝐲 𝐬𝐞𝐥𝐥𝐢𝐧𝐠 𝐬𝐜𝐡𝐞𝐦𝐞𝐬 𝐭𝐨 𝐢𝐭𝐬 𝐞𝐱𝐢𝐬𝐭𝐢𝐧𝐠 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫 𝐛𝐚𝐬𝐞.🎡
 
 -𝐁𝐚𝐧𝐤 𝐨𝐩𝐞𝐫𝐚𝐭𝐞𝐬 𝐢𝐧 𝟒 𝐫𝐞𝐠𝐢𝐨𝐧- 𝐄𝐧𝐠𝐥𝐚𝐧𝐝, 𝐖𝐡𝐚𝐥𝐞𝐬, 𝐍𝐨𝐫𝐭𝐡𝐞𝐫𝐧 𝐈𝐬𝐥𝐚𝐧𝐝, 𝐒𝐜𝐨𝐭𝐥𝐚𝐧𝐝.
 -𝐁𝐚𝐧𝐤 𝐜𝐮𝐬𝐭𝐨𝐦𝐞𝐫𝐬 𝐡𝐚𝐯𝐞 𝐣𝐨𝐛𝐭𝐲𝐩𝐞- 𝐖𝐡𝐢𝐭𝐞 𝐂𝐨𝐥𝐥𝐚𝐫, 𝐁𝐥𝐮𝐞 𝐂𝐨𝐥𝐥𝐚𝐫, 𝐚𝐧𝐝 𝐎𝐭𝐡𝐞𝐫𝐬.
@@ -20,8 +20,8 @@ Ans- Schemes.
 What could be the best approach to increase probability of schemes getting purchased by customers?
 Ans- Create tailored schemes.
 
-How can this be achieved as customers are relatively high in number?
-Ans- Let's create Segmentation or groups based on similar characteristics. ]
+How can this be achieved as customers are relatively high in number? Ans- Let's do Segmentation to filter out 3 to 4 best scenerios.
+
 ---------------------------------------------------------------------------------------------
 
 𝐀𝐜𝐭𝐢𝐨𝐧-
